@@ -1,3 +1,2 @@
 # citrus
-Creating a new branch is quick & simple.
-bug.
+Creating a new branch is quick and simple.
